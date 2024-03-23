@@ -1,1 +1,1 @@
-# Tribute-Page
+A tribute page is a web page that honors and remembers a loved one. You can use it to share photos, memories, messages, and music, and to light candles or link to a charity. You can also use a tribute page to share funeral details
